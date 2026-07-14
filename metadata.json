@@ -1,0 +1,6 @@
+{
+  "name": "Bull Trust ANSEM Ecosystem",
+  "description": "The Bull Trust ANSEM Ecosystem platform with Builder Passports, Reputation Trust Scores, Project Discovery, Live Activity Feeds, Analytics, Interactive Graphs, and Gemini AI Search and Summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
